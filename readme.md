@@ -4,7 +4,7 @@ Provide set of fundamental Compose UI components that you copy and start to use 
 
 ## Documentation
 
-Please refer to https://www.uicompose.com/docs
+Please refer to https://www.uicompose.com/
 
 ## Leave Feedback
 
