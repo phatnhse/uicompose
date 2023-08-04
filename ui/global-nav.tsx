@@ -59,7 +59,7 @@ export function GlobalNav() {
                   <div>{section.name}</div>
                 </div>
 
-                <div className="ml-2 space-y-1">
+                <div className="space-y-1">
                   {section.items.map((item) => (
                     <GlobalNavItem key={item.slug} item={item} close={close} />
                   ))}
